@@ -1,0 +1,7 @@
+http://bilgisayarkavramlari.com/2010/12/06/dosya-ve-bagli-liste-uygulamasi/
+https://stackoverflow.com/questions/40592846/writing-data-from-a-linked-list-to-a-txt-file-in-c
+https://stackoverflow.com/questions/41227292/c-linked-list-read-from-txt-file/41227579
+https://www.geeksforgeeks.org/linked-list-set-1-introduction/
+https://www.geeksforgeeks.org/c-program-bubble-sort-linked-list/
+
+
